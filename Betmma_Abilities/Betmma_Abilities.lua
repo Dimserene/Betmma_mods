@@ -4,7 +4,7 @@
 --- MOD_AUTHOR: [Betmma]
 --- MOD_DESCRIPTION: New type of card: Abilities
 --- PREFIX: betm_abilities
---- VERSION: 1.0.3.12(20250219)
+--- VERSION: 1.0.3.13(20250303)
 --- BADGE_COLOUR: 8D90BF
 
 ----------------------------------------------
